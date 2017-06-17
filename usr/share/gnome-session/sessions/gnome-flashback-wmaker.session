@@ -1,0 +1,4 @@
+[GNOME Session]
+Name=GNOME Flashback (Window Maker)
+RequiredComponents=gnome-panel;unity-settings-daemon;nautilus-classic;gnome-flashback-services;wmaker-adv;
+DesktopName=Unity
