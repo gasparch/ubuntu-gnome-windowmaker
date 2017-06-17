@@ -1,0 +1,3 @@
+[GNOME Session]
+Name=GNOME Flashback (Window Maker)
+RequiredComponents=gnome-flashback-init;gnome-flashback;gnome-panel;wmaker-adv;unity-settings-daemon;gnome-flashback-services;

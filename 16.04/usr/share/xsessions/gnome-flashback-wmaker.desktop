@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=GNOME Flashback (WMaker)
+Comment=This session logs you into GNOME Flashback with WindowMaker
+Exec=/usr/lib/gnome-flashback/gnome-flashback-wmaker
+TryExec=wmaker
+Type=Application
+DesktopNames=GNOME-Flashback;Unity;
+X-Ubuntu-Gettext-Domain=gnome-flashback
